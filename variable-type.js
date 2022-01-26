@@ -1,0 +1,10 @@
+var price = 50;
+console.log(typeof price);
+var name = "Rakib-Shakib";
+console.log( typeof name);
+var coffe = true;
+console.log( typeof coffe);
+var triangle;
+console.log(typeof triangle);
+var height = null;
+console.log(height);
